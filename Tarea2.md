@@ -3,7 +3,6 @@
 Este comando lleva los cambios confirmados hacia el repositorio y los sube/guarda.
 
 Actualiza el repositorio remoto con las confirmaciones realizadas localmente en una rama.
-
 ### Git pull
 ### Git branch
 ### Git checkout
