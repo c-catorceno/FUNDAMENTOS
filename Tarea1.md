@@ -80,6 +80,7 @@ Julieth Aguirre Barrera, Stephanny Aguirre Barrera:
 
 EDteam:
 - https://ed.team/blog/que-es-y-que-hace-un-analista-qa
+
 Microsoft:
 - https://learn.microsoft.com/es-es/visualstudio/debugger/what-is-debugging?view=vs-2022
 
