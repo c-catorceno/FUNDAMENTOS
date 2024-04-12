@@ -25,11 +25,26 @@
         5. Ejecución de prueba
         6. Cierre
     6. Mantenimiento y evolución
-4. Monitoreo
+4. Monitoreo/Supervisión
 5. Fin del proyecto
 
-## TIPOS DE METODOLOGÍAS
-1. CASCADA
-2. ÁGILES
+PLAN DE PROYECTO
+- Documento de especificación de requerimientos de software
+- Diagrama de Gantt
+- Diseño o diseños comparativos
+
+## METODOLOGÍAS DE PROYECTOS
+CASCADA --> secuencial
+1. Análisis
+2. Diseño
+3. Implementación
+4. Verificación
+5. Mantenimiento
+
+ÁGILES --> iterativo
+  SCRUM
+- Product owner - toma las decisiones de que se hará con el material.
+- Developers - equipo, trabajadores que deben cumplir las sprints.
+- Scrum master - abastece con materiales e interviene en la comunicación.
 
 
