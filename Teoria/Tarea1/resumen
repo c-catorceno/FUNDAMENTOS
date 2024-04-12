@@ -1,0 +1,35 @@
+### CICLO DE UN PROYECTO - GESTIÓN DE PROYECTOS
+1. Autorización
+2. Definir el alcance
+3. Cronograma
+4. Informar del estado
+5. Cerrar el proyecto
+
+1. Inicio
+2. Planificación
+3. Implementación
+  CICLO DE SOFTWARE
+    1. Planificación
+      - Documento de especificación de requerimientos de software.
+      - Análisis de requerimientos funcionales y no funcionales
+    2. Análisis
+    3. Diseño
+    4. Desarrollo
+    5. Pruebas
+      CICLO DE VIDA DE LAS PRUEBAS DE SOFTWARE
+        1. Análisis
+        2. Planificación
+          - Documento de pruebas --> Historias de usuario
+        3. Desarrollo de casos de prueba
+        4. Configuración del entorno de prueba
+        5. Ejecución de prueba
+        6. Cierre
+    6. Mantenimiento y evolución
+4. Monitoreo
+5. Fin del proyecto
+
+## TIPOS DE METODOLOGÍAS
+1. CASCADA
+2. ÁGILES
+
+
