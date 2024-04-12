@@ -9,7 +9,7 @@
 2. Planificación
 3. Implementación
   CICLO DE SOFTWARE
-    1. Planificación
+    1. Planificación 
       - Documento de especificación de requerimientos de software.
       - Análisis de requerimientos funcionales y no funcionales
     2. Análisis
@@ -18,8 +18,9 @@
     5. Pruebas: poner a prueba lo desarrollado, verificar que el software hace lo que debe hacer, evalua la calidad y funcionamiento del software
       CICLO DE VIDA DE LAS PRUEBAS DE SOFTWARE
         1. Análisis
+          - Gestión de requisitos -->
         2. Planificación
-          - Documento de pruebas --> Historias de usuario
+          - Documento de pruebas --> Historias de usuario --> Los criterios de aceptación deben ser SMART: Específicos, Medibles, Alcanzables, Relevantes y Limitados en el Tiempo5. Los criterios deben ser revisados y acordados por todas las partes interesadas para asegurar que se cumplan las expectativas del proyect
         3. Desarrollo de casos de prueba
         4. Configuración del entorno de prueba
         5. Ejecución de prueba
