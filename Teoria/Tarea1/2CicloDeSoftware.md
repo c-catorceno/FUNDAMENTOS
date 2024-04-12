@@ -9,5 +9,5 @@ Esquema de la mejor solución y organizar la arquitectura del software.
 Ejecutar la solución.
 ### 2.5 Prueba
 Verificar que funcione el producto correctamente en los dispositivos que se vayan a utilizar.
-### 2.6 Mantenimiento
+### 2.6 Mantenimiento y evolución
 Probar que siga vivo y en buen funcionamiento el código.
